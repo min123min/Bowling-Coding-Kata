@@ -14,6 +14,7 @@ class Game:
 
  def TotalScore(self):
      Totalscore = 0
+
      return Totalscore
  def Over(self):
      end = True
